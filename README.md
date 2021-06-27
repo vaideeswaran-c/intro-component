@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-base-apparel-dzDAi078i)
--   Live Site URL: [Netlify Live Site](https://crimson-base-apparel.netlify.app/)
+-   Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-intro-component-ry81th981)
+-   Live Site URL: [Netlify Live Site](https://crimson-intro.netlify.app/)
 
 ## My process
 
